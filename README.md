@@ -15,9 +15,9 @@ une base de données en SQL sous phpmyadmin
 une interface utilisateur en PHP via une architecture MVC 
 
 ## Members
-- [BOURRAGUE Maxence]('https://github.com/Maxenceboo')
+- [BOURRAGUE Maxence](https://github.com/Maxenceboo)
 - [MEDINA Teo]('null')
-- [WARGNIER Tom]('https://github.com/wasadeft')
+- [WARGNIER Tom](https://github.com/wasadeft)
 
 ## Objectives
 
