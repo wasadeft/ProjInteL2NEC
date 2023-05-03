@@ -17,7 +17,7 @@ une interface utilisateur en PHP via une architecture MVC
 ## Members
 - [BOURRAGUE Maxence](https://github.com/Maxenceboo)
 - [MEDINA Teo]('null')
-- [WARGNIER Tom]('https://github.com/wasadeft)
+- [WARGNIER Tom](https://github.com/wasadeft)
 
 ## Missions
 Le projet consiste en la création d'une base de données avec une interface intuitive pour permettre la consultation et le référencement des espèces présentes dans le domaine depuis sa fondation en 1650 jusqu'à aujourd'hui. Les principaux acteurs impliqués dans ce projet sont les étudiants de la licence 2 NEC à Anglet, Mme BACQUE, les enseignants Mme LOUBERRY ainsi que M HAKIRI. Les deux lieux principaux où cette base de données sera disponible sont le domaine lui-même, situé au 2 chemin de Larrouy, 64190 Ogenne-Camptort par Navarrenx en Nouvelle Aquitaine, France, et sur le site web de l'association du domaine situé à l'allée du parc montaury, 64600 Anglet, Nouvelle Aquitaine, France.
