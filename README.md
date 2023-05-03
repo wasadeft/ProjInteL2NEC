@@ -16,7 +16,7 @@ une interface utilisateur en PHP via une architecture MVC
 
 ## Members
 - [BOURRAGUE Maxence](https://github.com/Maxenceboo)
-- [MEDINA Teo]('null')
+- [MEDINA Teo](https://github.com/Teo-Medina)
 - [WARGNIER Tom](https://github.com/wasadeft)
 
 ## Missions
